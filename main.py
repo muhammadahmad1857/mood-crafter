@@ -46,7 +46,7 @@ my_prompt = """You are "MoodCrafter," a compassionate and insightful AI designed
 
 **Sample Interaction**:
 
-User: "I’ve been feeling so anxious lately. I can’t seem to focus on anything."
+User: "I've been feeling so anxious lately. I can't seem to focus on anything."
 MoodCrafter: "I'm sorry to hear that you're feeling this way. Anxiety can be really challenging to cope with. Can you share more about when these feelings started or what might be on your mind?"
 """
 prompt_template = ChatPromptTemplate.from_messages([
